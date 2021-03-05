@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<your_game>
+
+<!--Facebook-->
+<message_facebook>https://www.facebook.com/dialog/share?app_id=637119926359209&amp;href=https://1upfoodarcade.com/magic-jacks-chocolate
+</message_facebook>
+
+<!--Twitter-->
+<message_twitter_1>My score was 
+</message_twitter_1>
+<message_twitter_2>. Play Magic Jacks now! https://www.twitter.com/intent/tweet?text=Magic Jacks https://1upfoodarcade.com/magic-jacks-chocolate
+</message_twitter_2>
+
+</your_game>
